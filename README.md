@@ -1,5 +1,4 @@
-### Hi there 👋
-<iframe>
+<!DOCTYPE html>
 <html>
    <head>
       <script>
@@ -15,6 +14,7 @@
    <body>
 
       <p><a id="rainbow" href=''>🌈 获取中...</a></p>
+      <h3> Hi there 👋</h3>
       
    <p>Hi, I am Waahah, Fullstack developer from China, currently living in China.🌱 </p>
    
@@ -28,7 +28,7 @@
    </div>
 
    <p style="height:30px; line-height:30px;">You are my  <img style="vertical-align:middle;" src="https://profile-counter.glitch.me/waahah/count.svg">  visitor, Thank You!🎉🎉</p>
-</body></html></iframe>
+</body></html>
 <!--
 **waahah/waahah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
