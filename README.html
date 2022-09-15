@@ -1,5 +1,20 @@
 ### Hi there 👋
+<html>
+   <head>
+      <script>
+         fetch('https://api.eatrice.top')
+         .then(response => response.json())
+         .then(data => {
+            var rainbow = document.getElementById('rainbow');
+            rainbow.innerHTML = data.Content;
+            rainbow.href = "https://rainbow.eatrice.top/?ID=" + data.ID;
+         }).catch(console.error)
+   </script>
+   </head>
+   <body>
 
+      <p><a id="rainbow" href=''>🌈 获取中...</a></p>
+      
    <p>Hi, I am Waahah, Fullstack developer from China, currently living in China.🌱 </p>
    
    <Strong> you can contact me in the following ways:💬</Strong><br>
@@ -12,7 +27,7 @@
    </div>
 
    <p style="height:30px; line-height:30px;">You are my  <img style="vertical-align:middle;" src="https://profile-counter.glitch.me/waahah/count.svg">  visitor, Thank You!🎉🎉</p>
-
+</body></html>
 <!--
 **waahah/waahah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
