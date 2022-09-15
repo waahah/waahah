@@ -5,7 +5,7 @@
    <Strong> you can contact me in the following ways:💬</Strong><br>
    <Strong>QQ Email:3180800798@qq.com</Strong><br>
    <Strong>Weibo:<a href='https://weibo.com/waahah' target='_blank'>https://weibo.com/waahah</a></Strong>
-   
+   <p>You are my ![Visitor Count](https://profile-counter.glitch.me/waahah/count.svg) visitor, Thank You!🎉🎉</p>
 
 <!--
 **waahah/waahah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
