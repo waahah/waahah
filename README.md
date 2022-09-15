@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <script>
-         fetch('https://api.eatrice.top')
-         .then(response => response.json())
-         .then(data => {
-            var rainbow = document.getElementById('rainbow');
-            rainbow.innerHTML = data.Content;
-            rainbow.href = "https://rainbow.eatrice.top/?ID=" + data.ID;
-         }).catch(console.error)
-   </script>
+      <script src="https://gist.github.com/waahah/2cadbbdd6e2bfe3f66e1c6959169b2e1.js"></script>
    </head>
    <body>
 
