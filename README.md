@@ -10,7 +10,7 @@
    
    <Strong> you can contact me in the following ways:💬</Strong><br>
    <Strong>QQ Email:3180800798@qq.com</Strong></br>
-   <Strong>Weibo:<a href='https://weibo.com/waahah' target='_blank'>https://weibo.com/waahah</a></Strong>
+   <Strong>Website:<a href='https://waahah.xyz' target='_blank'>https://www.waahah.xyz</a></Strong>
    
    <div align="center">
       <img height="137px" src="https://github-readme-stats.vercel.app/api?username=waahah&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
