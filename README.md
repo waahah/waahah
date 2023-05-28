@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://music.waahah.xyz/">
+  <a href="https://www.waahah.xyz/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=echo+%22Hello%2C%20World!%22;PHP+is+the+best+language+in+the+world！&center=true&size=27&width=630">
   </a>
 </h1>
